@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/lilyoforiwaa" target="blank"><img src="https://img.shields.io/twitter/follow/lilyoforiwaa?logo=twitter&style=for-the-badge" alt="lilyoforiwaa" /></a> </p>
 
-- 📫 How to reach me **lilyoforiwaas@gmail.com**
+- 📫 How to reach me: **lilyoforiwaas@gmail.com** or **los2119@columbia.edu**
 
-- ⚡ Fun fact **I love biking!**
+- ⚡ Fun fact: **I love biking!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
