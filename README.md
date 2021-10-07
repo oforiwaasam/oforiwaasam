@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lily Sam</h1>
 <h3 align="center">I go to Columbia University in the City of New York🇺🇸. I am originally from Ghana🇬🇭. </h3>
 
-<p align="center"> <a href="https://twitter.com/lilyoforiwaa" target="blank"><img src="https://img.shields.io/twitter/follow/lilyoforiwaa?logo=twitter&style=for-the-badge" alt="lilyoforiwaa" /></a> </p>
+<!-- <p align="center"> <a href="https://twitter.com/lilyoforiwaa" target="blank"><img src="https://img.shields.io/twitter/follow/lilyoforiwaa?logo=twitter&style=for-the-badge" alt="lilyoforiwaa" /></a> </p> -->
 
 - 🔭 I am currently working on some side projects as a way of **learning and developing technically**.
 
