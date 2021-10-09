@@ -3,9 +3,9 @@
 
 <!-- <p align="center"> <a href="https://twitter.com/lilyoforiwaa" target="blank"><img src="https://img.shields.io/twitter/follow/lilyoforiwaa?logo=twitter&style=for-the-badge" alt="lilyoforiwaa" /></a> </p> -->
 
-- 🔭 I am currently working on some side projects as a way of **learning and developing technically**.
+- 🔭 I am currently working on some side projects as a way of **learning and developing my skills.**
 
-- 🧠 I am currently learning **vanilla javascript and building some fun projects**
+- 🧠 I am currently learning **vanilla javascript and building some fun projects.**
 
 - 🔮 After understanding vanilla javascript, I'm looking forward to learning **React** and **Node.js**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **lilyoforiwaas@gmail.com** or **los2119@columbia.edu**
 
-- ⚡ Fun fact: **I love biking!**
+- ⚡ Fun fact: **I love biking🚴🏾‍♀️!**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
