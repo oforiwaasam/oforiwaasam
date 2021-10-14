@@ -24,8 +24,9 @@
 <a href="https://www.hackerrank.com/los2119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="los2119" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lilsam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lilsam" height="30" width="40" /></a>
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oforiwaasam)](https://github.com/anuraghazra/github-readme-stats)
+📊 &nbsp;**This week I spent my time on**
 
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=oforiwaasam&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 <div align="center">
   <details>
     <summary><b>Languages and Tools</b></summary>
