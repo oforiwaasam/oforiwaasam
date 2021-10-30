@@ -13,6 +13,8 @@
 
 - 📫 How to reach me: **lilyoforiwaas@gmail.com** or **los2119@columbia.edu**
 
+- 👩🏾‍💻 Personal website in progress. Check out here: https://oforiwaasam.github.io/portfolio/
+
 - ⚡ Fun fact: **I love biking🚴🏾‍♀️!**
 
 <h3 align="center">Connect with me:</h3>
