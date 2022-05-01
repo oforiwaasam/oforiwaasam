@@ -11,7 +11,7 @@
 
 - 👩🏾‍💻 I'll be starting the recruiting process very soon and I'm mostly interested in internship opportunities that prioritize **experiential learning**.
   - Update: Recruiting during the semester is stressful! I'll come back to continue with these fun projects very soon...
-  - Update: I got multiple SWE offers this recruiting season: Amazon, Uber, Bank of America, Goldman Sachs. I'll be interning with Amazon this summer! Super stoked for this🤩
+  - Update: I got some really nice SWE offers this recruiting season. I'll be interning with Amazon this summer! Super stoked for this🤩
 
 - 📫 How to reach me: **lilyoforiwaas@gmail.com** or **los2119@columbia.edu**
 
