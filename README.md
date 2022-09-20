@@ -3,15 +3,9 @@
 
 <!-- <p align="center"> <a href="https://twitter.com/lilyoforiwaa" target="blank"><img src="https://img.shields.io/twitter/follow/lilyoforiwaa?logo=twitter&style=for-the-badge" alt="lilyoforiwaa" /></a> </p> -->
 
-- 🔭 I am currently working on some side projects as a way of **learning and developing my skills.**
+- Senior year:)
 
-- 🧠 I am currently learning **vanilla javascript and building some fun projects.**
-
-- 🔮 After understanding vanilla javascript, I'm looking forward to learning **React** and **Node.js**
-
-- 👩🏾‍💻 I'll be starting the recruiting process very soon and I'm mostly interested in internship opportunities that prioritize **experiential learning**.
-  - Update: Recruiting during the semester is stressful! I'll come back to continue with these fun projects very soon...
-  - Update: I got some really nice SWE offers this recruiting season. I'll be interning with Amazon this summer! Super stoked for this🤩
+- 🐣 Hibernating...... will be back soon
 
 - 📫 How to reach me: **lilyoforiwaas@gmail.com** or **los2119@columbia.edu**
 
