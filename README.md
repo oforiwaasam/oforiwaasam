@@ -6,6 +6,7 @@
 - Senior year:)
 
 - 🐣 Currently applying for New Grad SWE opportunities and prepping for interviews... tough times
+  - Ex-Amazon intern... rest is history:/ 
 
 - 📫 How to reach me: **lilyoforiwaas@gmail.com** or **los2119@columbia.edu**
 
