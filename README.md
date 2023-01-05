@@ -5,7 +5,7 @@
 
 - Senior year:)
 
-- 🐣 Hibernating...... will be back soon
+- 🐣 Interview prep
 
 - 📫 How to reach me: **lilyoforiwaas@gmail.com** or **los2119@columbia.edu**
 
