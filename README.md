@@ -12,7 +12,7 @@
 
 - 👩🏾‍💻 Personal website in progress. Check out here: https://oforiwaasam.github.io/portfolio/
 
-- ⚡ Fun fact: **I love biking🚴🏾‍♀️!**
+- ⚡ **I love biking🚴🏾‍♀️!**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
