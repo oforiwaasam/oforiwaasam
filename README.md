@@ -5,13 +5,14 @@
 <!-- <p align="center"> <a href="https://twitter.com/lilyoforiwaa" target="blank"><img src="https://img.shields.io/twitter/follow/lilyoforiwaa?logo=twitter&style=for-the-badge" alt="lilyoforiwaa" /></a> </p> -->
 
 - Senior year:)
+  - Currently interested in contributing to Open Source Projects (more about that coming soon)
 
 - 🐣 Currently applying for New Grad SWE opportunities and prepping for interviews... tough times
   - Ex-Amazon intern... rest is history:/ 
 
 - 📫 How to reach me: **lilyoforiwaas@gmail.com** or **los2119@columbia.edu**
 
-- 👩🏾‍💻 Personal website in progress. Check out here: https://oforiwaasam.github.io/portfolio/
+- 👩🏾‍💻 Personal website: https://oforiwaasam.github.io/portfolio/
 
 - ⚡ **I love biking🚴🏾‍♀️!**
 
