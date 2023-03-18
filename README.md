@@ -8,7 +8,8 @@
   - Currently interested in contributing to Open Source Projects (more about that coming soon)
 
 - 🐣 Currently applying for New Grad SWE opportunities and prepping for interviews... tough times
-  - Ex-Amazon intern... rest is history:/ 
+  - Ex-Amazon intern... rest is history:/
+  - Incoming Analyst at Deutsche Bank 
 
 - 📫 How to reach me: **lilyoforiwaas@gmail.com** or **los2119@columbia.edu**
 
