@@ -1,5 +1,5 @@
 <h1 align="center">Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Lily Sam</h1>
-<h3 align="center">I go to Columbia University in the City of New York🇺🇸. I am originally from Ghana🇬🇭.</h3>
+<h3 align="center">I went to Columbia University in the City of New York🇺🇸. I am originally from Ghana🇬🇭.</h3>
 <h3 align="center">Tough times never last, only tough people last....</h3>
 
 <!-- <p align="center"> <a href="https://twitter.com/lilyoforiwaa" target="blank"><img src="https://img.shields.io/twitter/follow/lilyoforiwaa?logo=twitter&style=for-the-badge" alt="lilyoforiwaa" /></a> </p> -->
