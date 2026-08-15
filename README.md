@@ -14,17 +14,6 @@
 - ⚡ **I love biking🚴🏾‍♀️!**
 
 <br>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<!-- <a href="https://twitter.com/lilyoforiwaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lilyoforiwaa" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/lily-oforiwaa-sam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lily-oforiwaa-sam" height="30" width="40" /></a>
-<!-- <a href="https://www.facebook.com/lilyoforiwaa.sam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lily oforiwa sam" height="30" width="40" /></a>
-<a href="https://instagram.com/s.lee_lee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.lee_lee" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/los2119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="los2119" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lilsam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lilsam" height="30" width="40" /></a> -->
-</p>
-
-<br>
 <h3 align="center">This week I spent my time on:</h3>
 <p align="center"><img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=oforiwaasam&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" alt="oforiwaasam"/></p>
 <div align="center">
@@ -51,9 +40,9 @@
 </div>
 
 <div>
-<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oforiwaasam&show_icons=true&locale=en&layout=compact" alt="oforiwaasam" /></p> -->
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oforiwaasam&show_icons=true&locale=en&layout=compact" alt="oforiwaasam" /></p>
 
-  <!--<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oforiwaasam&show_icons=true&locale=en" alt="oforiwaasam" /></p>-->
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oforiwaasam&show_icons=true&locale=en" alt="oforiwaasam" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oforiwaasam&" alt="oforiwaasam" /></p>
 </div>
