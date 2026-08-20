@@ -13,6 +13,12 @@
 
 - ⚡ **I love biking🚴🏾‍♀️!**
 
+### Open Source Contributions
+
+<ul>
+  <li>🏕️ <strong><a href="https://github.com/Agenta-AI/agenta/pull/6092">agenta</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=Agenta-AI/agenta&amp;v=3"> - Extract a shared delivery-upsert builder in TriggersDAO</li>
+</ul>
+
 <br>
 <h3 align="center">This week I spent my time on:</h3>
 <p align="center"><img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=oforiwaasam&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" alt="oforiwaasam"/></p>
