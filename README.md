@@ -12,14 +12,14 @@
 - 👩🏾‍💻 Personal website: https://oforiwaasam.github.io/portfolio/
 
 - ⚡ **I love biking🚴🏾‍♀️!**
-
 <br>
 
-### Open Source Contributions
+### My journey as an Open Source Contributor
 
 <ul>
   <li>2️⃣<strong><a href="https://github.com/Agenta-AI/agenta/pull/6092">agenta</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=Agenta-AI/agenta&amp;v=3"> - Extract a shared delivery-upsert builder in TriggersDAO</li>
   <li>1️⃣<strong><a href="https://github.com/lingdojo/kana-dojo/pull/20820">kana-dojo</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=lingdojo/kana-dojo&amp;v=3"> - content: add new trivia question</li>
+  <li>0️⃣<strong><a href="https://github.com/firstcontributions/first-contributions/pull/119210">firstcontributions</a></strong> <img alt="Stars" src="https://github-star-badge.apoorvdarshan.workers.dev/api/stars?repo=firstcontributions/first-contributions&amp;v=3"> - Add Lily Sam to Contributors list</li>
 </ul>
 
 <br>
