@@ -17,15 +17,16 @@
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - ⚡ **I love biking🚴🏾‍♀️!**
-<!--<br>
+<br>
 
 ## Open Source Contributions
 
-| Project | Stars | Contribution |
-|---|---|---|
-| [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) | ![Stars](https://img.shields.io/github/stars/Agenta-AI/agenta?style=flat-square) | <a href="https://github.com/Agenta-AI/agenta/pull/6092">Extracted a shared delivery-upsert builder in TriggersDAO</a> |
-| [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) | ![Stars](https://img.shields.io/github/stars/lingdojo/kana-dojo?style=flat-square) | <a href="https://github.com/lingdojo/kana-dojo/pull/20820">Added new trivia question</a> |
-| [firstcontributions](https://github.com/firstcontributions/first-contributions) | ![Stars](https://img.shields.io/github/stars/firstcontributions/first-contributions?style=flat-square) | <a href="https://github.com/firstcontributions/first-contributions/pull/119210">Added self to Contributors list</a> |-->
+| # | Project | Stars | Contribution |
+|---|---|---|---|
+|3️⃣| [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) | ![Stars](https://img.shields.io/github/stars/Agenta-AI/agenta?style=flat-square) | <a href="https://github.com/Agenta-AI/agenta/pull/6300">Fixed unguarded UUID in taskiq triggers worker</a> |
+|2️⃣| [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) | ![Stars](https://img.shields.io/github/stars/Agenta-AI/agenta?style=flat-square) | <a href="https://github.com/Agenta-AI/agenta/pull/6092">Extracted a shared delivery-upsert builder in TriggersDAO</a> |
+|1️⃣| [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) | ![Stars](https://img.shields.io/github/stars/lingdojo/kana-dojo?style=flat-square) | <a href="https://github.com/lingdojo/kana-dojo/pull/20820">Added new trivia question</a> |
+|0️⃣| [firstcontributions](https://github.com/firstcontributions/first-contributions) | ![Stars](https://img.shields.io/github/stars/firstcontributions/first-contributions?style=flat-square) | <a href="https://github.com/firstcontributions/first-contributions/pull/119210">Added self to Contributors list</a> |
 
 <br>
 <h3 align="center">This week I spent my time on:</h3>
