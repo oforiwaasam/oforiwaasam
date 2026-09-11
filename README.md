@@ -23,6 +23,7 @@
 
 | # | Project | Stars | Contribution |
 |---|---|---|---|
+|4️⃣| [llm-d/llm-d](https://github.com/llm-d/llm-d) | ![Stars](https://img.shields.io/github/stars/llm-d/llm-d?style=flat-square) | <a href="https://github.com/llm-d/llm-d/pull/2367">Fixed stale version badge and theme count mismatch</a> |
 |3️⃣| [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) | ![Stars](https://img.shields.io/github/stars/Agenta-AI/agenta?style=flat-square) | <a href="https://github.com/Agenta-AI/agenta/pull/6300">Fixed unguarded UUID in taskiq triggers worker and added missing-identifier test coverage</a> |
 |2️⃣| [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) | ![Stars](https://img.shields.io/github/stars/Agenta-AI/agenta?style=flat-square) | <a href="https://github.com/Agenta-AI/agenta/pull/6092">Extracted a shared delivery-upsert builder in TriggersDAO</a> |
 |1️⃣| [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) | ![Stars](https://img.shields.io/github/stars/lingdojo/kana-dojo?style=flat-square) | <a href="https://github.com/lingdojo/kana-dojo/pull/20820">Added new trivia question</a> |
