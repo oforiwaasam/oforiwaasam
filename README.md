@@ -20,18 +20,24 @@
 <br>
 
 ## Open Source Contributions So Far
+| # | Project | Stars | Contribution |
+|---|---|---|---|
+|7️⃣| [**gem5/gem5**](https:github.com/gem5/gem5) | ![Stars](https://img.shields.io/github/stars/gem5/gem5?style=flat-square) | <a href="https://github.com/gem5/gem5/pull/3660">sim-se: Use Linux clone flag values on non-Linux hosts</a> |
+|6️⃣| [**gem5/gem5**](https:github.com/gem5/gem5) | ![Stars](https://img.shields.io/github/stars/gem5/gem5?style=flat-square) | <a href="https://github.com/gem5/gem5/issues/3556">sim-se: Process::clone falls back to CLONE_VM=0 on macOS hosts, so pthread_create threads get a private address space</a> |
+|5️⃣| [**llm-d/llm-d**](https://github.com/llm-d/llm-d) | ![Stars](https://img.shields.io/github/stars/llm-d/llm-d?style=flat-square) | <a href="https://github.com/llm-d/llm-d/pull/2367">Fixed stale version badge and theme count mismatch</a> |
+|4️⃣| [**Agenta-AI/agenta**](https://github.com/Agenta-AI/agenta) | ![Stars](https://img.shields.io/github/stars/Agenta-AI/agenta?style=flat-square) | <a href="https://github.com/Agenta-AI/agenta/pull/6300">Fixed unguarded UUID in taskiq triggers worker and added missing-identifier test coverage</a> |
+|3️⃣| [**Agenta-AI/agenta**](https://github.com/Agenta-AI/agenta) | ![Stars](https://img.shields.io/github/stars/Agenta-AI/agenta?style=flat-square) | <a href="https://github.com/Agenta-AI/agenta/pull/6092">Extracted a shared delivery-upsert builder in TriggersDAO</a> |
+
+<details>
+<summary>Show more</summary>
 
 | # | Project | Stars | Contribution |
 |---|---|---|---|
-|7️⃣| [gem5/gem5](https:github.com/gem5/gem5) | ![Stars](https://img.shields.io/github/stars/gem5/gem5?style=flat-square) | <a href="https://github.com/gem5/gem5/pull/3660">sim-se: Use Linux clone flag values on non-Linux hosts</a> |
-|6️⃣| [gem5/gem5](https:github.com/gem5/gem5) | ![Stars](https://img.shields.io/github/stars/gem5/gem5?style=flat-square) | <a href="https://github.com/gem5/gem5/issues/3556">sim-se: Process::clone falls back to CLONE_VM=0 on macOS hosts, so pthread_create threads get a private address space</a> |
-|5️⃣| [llm-d/llm-d](https://github.com/llm-d/llm-d) | ![Stars](https://img.shields.io/github/stars/llm-d/llm-d?style=flat-square) | <a href="https://github.com/llm-d/llm-d/pull/2367">Fixed stale version badge and theme count mismatch</a> |
-|4️⃣| [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) | ![Stars](https://img.shields.io/github/stars/Agenta-AI/agenta?style=flat-square) | <a href="https://github.com/Agenta-AI/agenta/pull/6300">Fixed unguarded UUID in taskiq triggers worker and added missing-identifier test coverage</a> |
-|3️⃣| [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) | ![Stars](https://img.shields.io/github/stars/Agenta-AI/agenta?style=flat-square) | <a href="https://github.com/Agenta-AI/agenta/pull/6092">Extracted a shared delivery-upsert builder in TriggersDAO</a> |
-|2️⃣| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | ![Stars](https://img.shields.io/github/stars/freeCodeCamp/freeCodeCamp?style=flat-square) | <a href="https://github.com/freeCodeCamp/freeCodeCamp/pull/70060">Corrected error comment line and wording in python concatenation</a> |
-|1️⃣| [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) | ![Stars](https://img.shields.io/github/stars/lingdojo/kana-dojo?style=flat-square) | <a href="https://github.com/lingdojo/kana-dojo/pull/20820">Added new trivia question</a> |
-|0️⃣| [firstcontributions](https://github.com/firstcontributions/first-contributions) | ![Stars](https://img.shields.io/github/stars/firstcontributions/first-contributions?style=flat-square) | <a href="https://github.com/firstcontributions/first-contributions/pull/119210">Added self to Contributors list</a> |
+|2️⃣| [**freeCodeCamp/freeCodeCamp**](https://github.com/freeCodeCamp/freeCodeCamp) | ![Stars](https://img.shields.io/github/stars/freeCodeCamp/freeCodeCamp?style=flat-square) | <a href="https://github.com/freeCodeCamp/freeCodeCamp/pull/70060">Corrected error comment line and wording in python concatenation</a> |
+|1️⃣| [**lingdojo/kana-dojo**](https://github.com/lingdojo/kana-dojo) | ![Stars](https://img.shields.io/github/stars/lingdojo/kana-dojo?style=flat-square) | <a href="https://github.com/lingdojo/kana-dojo/pull/20820">Added new trivia question</a> |
+|0️⃣| [**firstcontributions/first-contributions**](https://github.com/firstcontributions/first-contributions) | ![Stars](https://img.shields.io/github/stars/firstcontributions/first-contributions?style=flat-square) | <a href="https://github.com/firstcontributions/first-contributions/pull/119210">Added self to Contributors list</a> |
 
+</details>
 <br>
 <h3 align="center">This week I spent my time on:</h3>
 <p align="center"><img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=oforiwaasam&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" alt="oforiwaasam"/></p>
